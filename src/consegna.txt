@@ -1,0 +1,18 @@
+Progetto "Housing"
+
+1 -    Prima versione, primo commit:
+    -     nuovo progetto = nuovo repository
+    -     scriviamo la prima versione: classe Room e Main. Una casa è fatta di tre stanze
+        calcolo area, calcolo prezzo. (commit 1)
+    -    siamo così fieri del nostro programma che lo pubblichiamo per farlo 
+        vedere al mondo. Colleghiamo il nostro repository local a github
+    -    pushiamo il nostro progetto sul github di Stefano
+    -     Filippo vede il progetto, lo trova molto bello, ma decide di aggiungere
+        una classe casa, e nella classe casa la clausola "cimitero indiano"
+    -     e modifica il main di conseguenza. Cosa farà Filippo?
+    -    Filippo farà pull del progetto da github. In sostanza lo SCARICA
+    -    creerà una branch di nome CimiteroIndiano e farà le modifiche del caso
+    -    filippo è così fiero del suo lavoro, ma così rispettoso di quello di Stefano 
+        che pubblica (publishi) la sua branch
+    -     stefano pulla la branch di filippo, la prova, decide che è bella
+    -    fa merge sulla master.
